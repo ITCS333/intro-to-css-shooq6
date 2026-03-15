@@ -1,12 +1,3 @@
-/* ============================================================
-   CSS EXERCISE: styles.css
-   Your task is to write CSS rules below each comment block.
-   DO NOT modify index.html.
-   ============================================================ */
-
-
-/* ---------------------------------------------------------------
-   EXERCISE 1 — Global / Reset Styles
 body {
   font-family: Arial, sans-serif;
   background-color: #f5f5f5;
@@ -15,36 +6,19 @@ body {
   padding: 0;
 }
 
---------------------------------------------------------------- */
-
-
-
-/* ---------------------------------------------------------------
-   EXERCISE 2 — Header Styling
- #main-header {
+#main-header {
   background-color: #2c3e50;
   color: #ffffff;
   padding: 20px;
   text-align: center;
 }
---------------------------------------------------------------- */
 
-
-
-/* ---------------------------------------------------------------
-   EXERCISE 3 — Header Heading
-   #main-header > h1 {
+#main-header > h1 {
   font-size: 2.5rem;
   margin: 0;
 }
 
---------------------------------------------------------------- */
-
-
-
-/* ---------------------------------------------------------------
-   EXERCISE 4 — Navigation Links
-   nav a {
+nav a {
   color: #f39c12;
   text-decoration: none;
   margin-left: 10px;
@@ -52,56 +26,30 @@ body {
   font-size: 1rem;
 }
 
---------------------------------------------------------------- */
-
-
-
-/* ---------------------------------------------------------------
-   EXERCISE 5 — Navigation Link Hover State
-  nav a:hover {
+nav a:hover {
   text-decoration: underline;
   color: #ffffff;
 }
---------------------------------------------------------------- */
 
-
-
-/* ---------------------------------------------------------------
-   EXERCISE 6 — Main Content Area
- main {
+main {
   max-width: 800px;
-  margin: auto;
+  margin: 0 auto;
   padding: 40px;
 }
---------------------------------------------------------------- */
 
-
-
-/* ---------------------------------------------------------------
-   EXERCISE 7 — Section Headings
- h2 {
+h2 {
   color: #2c3e50;
   border-bottom: 2px solid #f39c12;
   padding-bottom: 8px;
 }
---------------------------------------------------------------- */
 
-
-
-/* ---------------------------------------------------------------
-   EXERCISE 8 — Intro Paragraph
- .intro {
+.intro {
   font-size: 1.1rem;
   line-height: 1.8;
   font-style: italic;
 }
---------------------------------------------------------------- */
 
-
-
-/* ---------------------------------------------------------------
-   EXERCISE 9 — Hobbies List
-   .hobbies-list {
+.hobbies-list {
   list-style: none;
   padding: 0;
 }
@@ -112,25 +60,14 @@ body {
   margin-bottom: 4px;
   border-left: 4px solid #2c3e50;
 }
---------------------------------------------------------------- */
 
-
-
-/* ---------------------------------------------------------------
-   EXERCISE 10 — Highlighted List Item
-  .highlight {
+.highlight {
   background-color: #f39c12;
   color: #ffffff;
   border-left-color: #e67e22;
 }
 
---------------------------------------------------------------- */
-
-
-
-/* ---------------------------------------------------------------
-   EXERCISE 11 — Blockquote
- blockquote {
+blockquote {
   background-color: #ffffff;
   padding: 20px;
   border-left: 5px solid #f39c12;
@@ -138,13 +75,8 @@ body {
   margin-right: 0;
   font-size: 1.1rem;
 }
---------------------------------------------------------------- */
 
-
-
-/* ---------------------------------------------------------------
-   EXERCISE 12 — Cite Element
-  cite {
+cite {
   display: block;
   text-align: right;
   font-size: 0.9rem;
@@ -152,13 +84,7 @@ body {
   margin-top: 10px;
 }
 
---------------------------------------------------------------- */
-
-
-
-/* ---------------------------------------------------------------
-   EXERCISE 13 — Button Link
-   .btn {
+.btn {
   display: inline-block;
   background-color: #2c3e50;
   color: #ffffff;
@@ -167,27 +93,16 @@ body {
   border-radius: 4px;
   font-size: 1rem;
 }
---------------------------------------------------------------- */
 
-
-
-/* ---------------------------------------------------------------
-   EXERCISE 14 — Button Link Hover State
- .btn:hover {
+.btn:hover {
   background-color: #f39c12;
   transition: all 0.3s ease;
 }
---------------------------------------------------------------- */
 
-
-
-/* ---------------------------------------------------------------
-   EXERCISE 15 — Footer
- #main-footer {
+#main-footer {
   background-color: #2c3e50;
   color: #aaaaaa;
   text-align: center;
   padding: 20px;
   margin-top: 20px;
 }
---------------------------------------------------------------- */
